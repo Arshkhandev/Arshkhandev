@@ -7,9 +7,32 @@ I love working with JavaScript, Node.js, and modern backend tools — and I enjo
 
 ---
 
-## 🚀 Tech Stack
-**Languages:** JavaScript, C, Java, SQL  
-**Frontend:** HTML, CSS, JavaScript, React ,TailwindCss
+## 🚀 Tech Stack (Icons)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=reactnative" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
+</p>
+
+---
+
+## 🚀 Tech Stack (Text)
+**Languages:** JavaScript, C, C++, C#, Java, Python, SQL  
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
 **Tools:** Git, GitHub, Postman, VS Code  
@@ -19,21 +42,22 @@ I love working with JavaScript, Node.js, and modern backend tools — and I enjo
 ---
 
 ## 📂 Featured Projects
-### **1️⃣ Project Name 1**
-- Hey this is Catify my Shoping Website
-- GitHub Link → https://github.com/Arshkhandev/catify
 
-### **2️⃣ Project Name 2**
-- Short description: Its Fitness Website Build By me Where People Can See There Kcal,Vit,Min Etc. 
-- GitHub Link → https://github.com/Arshkhandev/kcalpro
+### **1️⃣ Catify – Shopping Website**
+- Short description: A modern shopping website built by me with clean UI.  
+- GitHub Link → https://github.com/Arshkhandev/catify  
 
-### **3️⃣ Project Name 3**
-- Short description: Its Simple Crud Operation Backend App
-- GitHub Link → https://github.com/Arshkhandev/Todos
+### **2️⃣ KcalPro – Fitness Website**
+- Short description: Users can see calories, vitamins, minerals, and more.  
+- GitHub Link → https://github.com/Arshkhandev/kcalpro  
 
-### **4️⃣*Project Name 4**
-- Short description: Its A Authentication Based Blogs App
-- GitHub Link → https://github.com/Arshkhandev/Blogs
+### **3️⃣ Todos – CRUD App**
+- Short description: Simple backend CRUD operation app.  
+- GitHub Link → https://github.com/Arshkhandev/Todos  
+
+### **4️⃣ Blogs – Auth Based Blog App**
+- Short description: Authentication-based blog posting app.  
+- GitHub Link → https://github.com/Arshkhandev/Blogs  
 
 ---
 
@@ -48,9 +72,8 @@ I love working with JavaScript, Node.js, and modern backend tools — and I enjo
 ## 📊 GitHub Stats
 ![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshkhandev&show_icons=true)
 
-
 ---
 
 ## 📫 Connect with Me
-- Email:arsh.khan.dev@gmail.com
+- Email: **arsh.khan.dev@gmail.com**  
 - LinkedIn: 
