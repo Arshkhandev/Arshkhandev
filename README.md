@@ -20,10 +20,10 @@ I love working with JavaScript, Node.js, and modern backend tools — and I enjo
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-  <img src="https://skillicons.dev/icons?i=reactnative" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" height="40"/>
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
   <img src="https://skillicons.dev/icons?i=cs" height="40"/>
 </p>
